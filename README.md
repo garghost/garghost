@@ -1,10 +1,10 @@
 ### Hii!!!! I'm Garcia Júnior
 ##
- <div display="inline_block" > 
+ <div display="inline_block" align="center" > 
  <br>
     <a href="https://github.com/garghost" target="_blank">
-     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=garghost&show_icons=true&theme=dark&bg_color=0a0c10&icon_color=ffffff&text_color=ffffff&title_color=39d353"> 
-     <img target="_blank" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&bg_color=0a0c10&text_color=ffffff&title_color=39d353&hide_progress=true">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garghost&show_icons=true&theme=dark&bg_color=0a0c10&icon_color=ffffff&text_color=ffffff&title_color=39d353"> 
+     <img target="_blank" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&bg_color=0a0c10&text_color=ffffff&title_color=39d353&hide_progress=true">
     </a>
  </div> 
  
