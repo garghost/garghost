@@ -1,5 +1,6 @@
 ### Hii!!!! I'm Garcia Júnior
-##
+## 
+<body style="background-color: coral">
  <div display="inline_block" align="center" > 
  <br>
     <a href="https://github.com/garghost" target="_blank">
@@ -31,4 +32,4 @@
    <a href="https://www.linkedin.com/in/garghost" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div><br>
-
+</body>
