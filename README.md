@@ -1,6 +1,6 @@
 ### Hii!!!! I'm Garcia Júnior
 ##
- <div display="inline_block" align="center"> 
+ <div display="inline_block" > 
  <br>
     <a href="https://github.com/garghost" target="_blank">
      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=garghost&show_icons=true&theme=dark&bg_color=0a0c10&icon_color=ffffff&text_color=ffffff&title_color=39d353"> 
