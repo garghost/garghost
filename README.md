@@ -1,13 +1,19 @@
 ### Hii!!!! I'm Garcia Júnior
-
- <div> 
+##
+ <div align="center"> 
+ <br>
     <a href="https://github.com/garghost" target="_blank">
-     <img height="190px" src="https://github-readme-stats.vercel.app/api?username=garghost&show_icons=true&theme=dark&bg_color=0a0c10&icon_color=ffffff&text_color=ffffff&title_color=39d353"> 
-     <img target="_blank" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garghost&hide_progress=true&theme=dark&bg_color=0a0c10&title_color=39d353"">
+     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=garghost&show_icons=true&theme=dark&bg_color=0a0c10&icon_color=ffffff&text_color=ffffff&title_color=39d353"> 
+     <img target="_blank" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&bg_color=0a0c10&text_color=ffffff&title_color=39d353&hide_progress=true">
     </a>
- </div>
+ </div> 
  
- <div display="inline_block"><br>
+ 
+ 
+ ### My technologies
+ ##
+ 
+ <div display="inline_block">
  
  <img align="center" alt="Garghost-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
  <img align="center" alt="Garghost-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -25,17 +31,4 @@
    <a href="https://www.linkedin.com/in/garghost" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div><br>
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
-
-
 
